@@ -105,7 +105,7 @@ dengan menampilkan dialog `JOptionPane`.
 ![Tampilan awal](https://github.com/rasyadalkautsar22-pixel/GUI_Form-Mahasiswa/blob/0d92f2ab1ad90a621b1e141a00fe5562fb756ef0/TampilanAwal.png)
 
 ### 2. Data berhasil disimpan
-![Data tersimpan](screenshots/02-data-tersimpan.png)
+![Data tersimpan](https://github.com/rasyadalkautsar22-pixel/GUI_Form-Mahasiswa/blob/f8c50f899315957ba979b442fd52e9e7984ac6da/TampilanData.png)
 
 ### 3. Validasi NIM (huruf ditolak)
 ![Validasi NIM](screenshots/03-validasi-nim.png)

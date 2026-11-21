@@ -111,4 +111,4 @@ dengan menampilkan dialog `JOptionPane`.
 ![Validasi NIM](https://github.com/rasyadalkautsar22-pixel/GUI_Form-Mahasiswa/blob/513a59f71097410922ba42bb373a3abaf2934c23/ValidasiNIM.png)
 
 ### 4. Dialog konfirmasi keluar
-![Konfirmasi keluar](screenshots/04-konfirmasi-keluar.png)
+![Konfirmasi keluar](https://github.com/rasyadalkautsar22-pixel/GUI_Form-Mahasiswa/blob/86ebbdc074f5d789cea79c7ee18bb154141ba317/KonfirmasiKeluar.png)

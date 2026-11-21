@@ -1,9 +1,9 @@
 # GUI_Form-Mahasiswa
 # Latihan GUI Java (Swing) - Form Mahasiswa
 
-- NIM: F1D02510143
-- Nama: MUHAMAD RASYAD AL-KAUTSAR
-- Mata Kuliah: Pemrograman Berorientasi Objek (PBO)
+- NIM: **F1D02510143**
+- Nama: **MUHAMAD RASYAD AL-KAUTSAR**
+- Mata Kuliah: **Pemrograman Berorientasi Objek (PBO)**
 
 ## Deskripsi
 

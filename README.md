@@ -102,7 +102,7 @@ dengan menampilkan dialog `JOptionPane`.
 ## Screenshot
 
 ### 1. Tampilan awal
-![Tampilan awal](screenshots/01-tampilan-awal.png)
+![Tampilan awal](https://github.com/rasyadalkautsar22-pixel/GUI_Form-Mahasiswa/blob/0d92f2ab1ad90a621b1e141a00fe5562fb756ef0/TampilanAwal.png)
 
 ### 2. Data berhasil disimpan
 ![Data tersimpan](screenshots/02-data-tersimpan.png)
